@@ -1,0 +1,3 @@
+Test ID: n8n-pr-smoke-test-2026-09-29-03
+Purpose: Verify the published n8n workflow records details after a pull request is opened.
+Expected output: Pull request number, title, URL, event action, and processing timestamp.
