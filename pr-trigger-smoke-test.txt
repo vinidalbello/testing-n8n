@@ -1,0 +1,3 @@
+Test ID: n8n-pr-smoke-test-2026-09-29
+Purpose: Verify that opening a pull request in this repository triggers the n8n workflow.
+Expected GitHub activity: A new pull request is opened with this file in its diff.
