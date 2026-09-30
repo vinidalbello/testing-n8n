@@ -1,0 +1,3 @@
+Test ID: n8n-pr-data-table-2026-09-30
+Purpose: Generate a pull_request opened event to test inserting PR information into the n8n data table.
+Expected row: The PR author's login, the PR URL, and isApproved set to false.
